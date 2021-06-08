@@ -1,0 +1,26 @@
+{
+  "name": "colorsland-scraper-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "say-hello": "echo 'hellow world!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aam-himel/colorsland-scraper-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aam-himel/colorsland-scraper-nodejs/issues"
+  },
+  "homepage": "https://github.com/aam-himel/colorsland-scraper-nodejs#readme",
+  "dependencies": {
+    "nodemailer": "^6.6.1",
+    "puppeteer": "^10.0.0"
+  },
+  "type": "module"
+}
